@@ -10,6 +10,7 @@ public class Matrix {
                 if(matrix[i][j]==0)
                 {
                     matrixnull.add(i);
+                    break;
                 }
             }
 
